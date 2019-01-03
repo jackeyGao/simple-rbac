@@ -13,7 +13,7 @@ Quick Start
 
 ::
 
-    pip install simple-rbac
+    pip install simplerbac
 
 2. Create a Access Control List
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

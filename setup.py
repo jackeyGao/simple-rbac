@@ -5,14 +5,14 @@ with open('README.rst') as readme:
     long_description = ''.join(readme).strip()
 
 setup(
-    name='simple-rbac',
-    version='0.1.1',
-    description='A simple role based access control utility',
+    name='simplerbac',
+    version='0.1.2',
+    description='as is simple-rbac.',
     long_description=long_description,
     keywords='rbac permission acl access-control',
     author='Jiangge Zhang',
     author_email='tonyseek@gmail.com',
-    url='http://github.tonyseek.com/simple-rbac/',
+    url='https://github.com/jackeyGao/simple-rbac',
     license='MIT License',
     packages=['rbac'],
     zip_safe=False,
